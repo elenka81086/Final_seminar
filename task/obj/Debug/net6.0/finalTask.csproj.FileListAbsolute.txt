@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\itog\finalTask\bin\Debug\net6.0\finalTask.exe
+C:\Users\User\Desktop\itog\finalTask\bin\Debug\net6.0\finalTask.deps.json
+C:\Users\User\Desktop\itog\finalTask\bin\Debug\net6.0\finalTask.runtimeconfig.json
+C:\Users\User\Desktop\itog\finalTask\bin\Debug\net6.0\finalTask.dll
+C:\Users\User\Desktop\itog\finalTask\bin\Debug\net6.0\finalTask.pdb
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\finalTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\finalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\finalTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\finalTask.AssemblyInfo.cs
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\finalTask.dll
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\refint\finalTask.dll
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\finalTask.pdb
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\finalTask.genruntimeconfig.cache
+C:\Users\User\Desktop\itog\finalTask\obj\Debug\net6.0\ref\finalTask.dll
